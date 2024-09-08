@@ -61,3 +61,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+![Fondo Ghost Legendario](https://github.com/user-attachments/assets/fe5ed162-59e3-49de-ae0b-cb7b73e92257)
