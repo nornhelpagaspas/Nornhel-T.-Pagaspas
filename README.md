@@ -32,7 +32,8 @@
     <section>
         <div class="main-container">
             <div class="image" data-aos="zoom-out" data-aos-duration="3000">
-                <img src="C:\Users\LENOVO\Pictures\Fondo Ghost Legendario.jpg" alt="">
+                <img src="![Fondo Ghost Legendario](https://github.com/user-attachments/assets/515f6b64-9352-4bac-9b60-1727e3f6a28f)
+" alt="">
             </div>
             <div class="content">
                 <h1 data-aos="fade-left" data-aos-duration="1500" data-aos-delay="700">Soon To Become</h1>
@@ -61,4 +62,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-![Fondo Ghost Legendario](https://github.com/user-attachments/assets/fe5ed162-59e3-49de-ae0b-cb7b73e92257)
